@@ -1,3 +1,6 @@
+** Please note ** this TOC was statically generated and the links are known not to work currently.
+
+
 - [DEF CON Guide](#def-con-guide)
 - [DEF CON](#def-con)
 - [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)](#belonging--sometimes-you-feel-like-a-nut-sometimes-you-don-t-)
