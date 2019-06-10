@@ -547,14 +547,14 @@ If you are considering having things delivered to you (Prime, Shipt, Doordash) k
 
 # Document Hackers
 
-* hashgrind / @hashgrind
-* Beaker / SethOps / @swordofomen
-* furb / @dixieflatline_
-* Winyl / @serraabak
-* H4r0ld / @JonSelman
+* hashgrind / [@hashgrind](https://twitter.com/hashgrind)
+* Beaker / SethOps / [@swordofomen](https://twitter.com/swordofomen)
+* furb / [@dixieflatline_](https://twitter.com/dixieflatline_)
+* Winyl / [@serraabak](https://twitter.com/serraabak)
+* H4r0ld / [@JonSelman](https://twitter.com/JonSelman)
 * Quix
-* LP / @Last_Person
+* LP / [@Last_Person](https://twitter.com/Last_Person)
 * mars
-* n0v / @n0vsec
-* 2bitwannabe / @2bitwannabe
-* Chris /@TechGirlMN
+* n0v / [@n0vsec](https://twitter.com/n0vsec)
+* 2bitwannabe / [@2bitwannabe](https://twitter.com/2bitwannabe)
+* Chris / [@TechGirlMN](https://twitter.com/TechGirlMN)
