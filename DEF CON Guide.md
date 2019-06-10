@@ -289,6 +289,10 @@ It’s also not recommended to attempt or to be “back of house” at the casin
 
 There are two ways to get to Las Vegas: by car or by plane. The flights to Las Vegas are usually cheap enough that you don’t need to drive. (SouthWest has cheap direct flights.) Drive if you want to make travel in an *experience*. Just remember that you have to drive **back** too (and you will be exhausted and possibly sick). Book flights early. Depending on whether you’re going to BlackHat/BSidesLV, you’ll be arriving extra early. If you’re just doing DEF CON, you should still try to fly in on Wednesday because people like to get an early start to the festivities. Don’t leave on Sunday unless you have to. The best conversations happen late Sunday night, and the airport is much less chaotic on Monday.
 
+Depending on where you are staying the LV monorail might be another option to help you get around. It runs between MGM Grand and SLS.
+It operates between 7am and 00:00-03:00 depending on the day. More details can be found here: https://www.lvmonorail.com/ and keep an eye on groupon for discounts on standard multi-day fares.
+
+
 ## Airport Tips/Tricks
 
 Wearing DEF CON swag and hacker stuff at the airport can help you make friends, but it can also get you extra attention from airport security (totally worth it).
@@ -323,6 +327,8 @@ Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at 
 It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/lyft/uber at the end of the day back to your room. Beware though, you might have to wait 5ever for an elevator to go up/down to your room, especially if you booked near popular shit.
 
 DEF CON requires a LOT of walking. The hotels are enormous; even just walking through two casinos to get to your hotel will take you 15 minutes. Your walks outside in the LV weather will feel like a slow descent into hell. Vegas in August feels like you are dying inside an oven with zerofuckingpercenthumidity. You will get exhausted and want a quick nap or want to drop some stuff off and start wishing your room was closer. You’ll also want to be able to stumble into your room immediately after overdrinking. That being said, if you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with someone. Both the Defcon forums and the Defcon subreddit have threads for room sharing during the months leading up to the event.
+
+It's also worth noting that most LV hotels haved a daily resort tax that is charged for the duration of your stay, I believe this can be up to $45 per night. 
 
 ### Hotel Room Hax
 
