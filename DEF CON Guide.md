@@ -475,7 +475,7 @@ Always use your best judgement and caution.
 
 People get sweaty in the desert, and that can lead to some serious body odor. Be a good citizen and save everyone’s olfactory senses by showering regularly and wearing deodorant and clean clothing (2 pairs of underwear a day makes everything nicer). The nerd funk on day two can choke a donkey.
 
-You’ll want at least 1 form of sweat defense per day cause it’s approximately at least a million degrees even at midnight. If you are a sweaty person, the kinda expensive [Thompson Tees](https://thompsontee.com/) actually somehow fucking work 100%</shill>. If you have hyperhidrosis (excessive sweating), get [prescription strength antiperspirant](https://www.amazon.com/gp/product/B01JB1MUNI). They work amazingly well (and will irritate your underarms with prolonged use but they’re perfect for when you only need it for 3 days). Or buy the magic undershirts, your call.
+You’ll want at least 1 form of sweat defense per day cause it’s approximately at least a million degrees even at midnight. If you are a sweaty person, the kinda expensive [Thompson Tees](https://thompsontee.com/) actually somehow fucking work 100%</shill>. If you have hyperhidrosis (excessive sweating), get [prescription strength antiperspirant](https://www.amazon.com/gp/product/B01JB1MUNI) or [SweatBlock](https://www.amazon.com/SweatBlock-Antiperspirant-Clinical-Strength-Reduce/dp/B002PQ8BQM). They work amazingly well (and will irritate your underarms with prolonged use but they’re perfect for when you only need it for 3 days). Or buy the magic undershirts, your call.
 
 ## Foot Care
 
