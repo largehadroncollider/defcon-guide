@@ -328,10 +328,10 @@ DEF CON requires a LOT of walking. The hotels are enormous; even just walking th
 
 For all the DefCon folks staying in Caesar's Properties: the VIP override for the Honeywell thermostat in your room (which disables room occupancy sensor and lowers min temp setting) is:
 
-* While holding down "display:"
-** Press "off"
-** Press "Up" arrow
-* Release "display" button
+- While holding down "display:"
+- * Press "off"
+- * Press "Up" arrow
+- Release "display" button
 
 ## Navigating the Con
 
