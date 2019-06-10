@@ -71,7 +71,7 @@
 
 
 
-# [DEF CON Guide]
+# DEF CON Guide
 
 Not sure you want to go? Watch [this](https://www.youtube.com/watch?v=3ctQOmjQyYg). You are now convinced. Moving on.
 
