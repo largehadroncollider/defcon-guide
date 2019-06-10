@@ -258,6 +258,10 @@ Keeping things locked up is important. It’s a good idea to keep your stuff in 
 
 Chances are good that your room will be searched if you do not allow maid service at least every couple of days. This sucks, but what can you do.
 
+While you are in your room, if you want additional security to those already offered in room by the hotel (which hotel security will be able to bypass with ease) then you can always use a couple of door wedges to ensure entry is not easily obtained. or additional items placed by the door to give you an early warning system.
+
+With the rise of Inernet of things (IoT) and digital assistants being deployed by hotel chains worldwide (such as Echo dot), It's possible you might find these in your room. You may want to consider your risk appetite for having anything you say around these devices shared to the Cloud (aka someone else's computer). It might be advisable to disconnect the devices from power for the duration of your stay, but it's your choice.
+
 ## Personal Security/Safety
 
 
