@@ -153,8 +153,8 @@ It's also worth noting that most Las Vegas hotels have a daily "resort tax" that
 For all the DefCon folks staying in Caesar's Properties: the VIP override for the Honeywell thermostat in your room (which disables room occupancy sensor and lowers min temp setting) is:
 
 - While holding down "display:"
-- * Press "off"
-- * Press "Up" arrow
+  * Press "off"
+  * Press "Up" arrow
 - Release "display" button
 
 ## Work Trip?
