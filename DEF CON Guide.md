@@ -535,7 +535,7 @@ Traffic in vegas is crazy, so don’t die crossing the street while playing Frog
 
 ## Saving Money
 
-Organize a trip with friends to [Costco](https://maps.google.com/maps?q=costco+las+vegas) (which carries good cheap huge bottles of liquor) or Walmart for things like bulk booze and bottled water and gatorade. Split cabs/Ubers/Lyfts. Split rooms *with people you trust and know.* If you’re driving, make food and store it in a cooler instead of eating out. Refill water bottles instead of buying new ones.
+Organize a trip with friends to [Costco](https://maps.google.com/maps?q=costco+las+vegas) (which carries good cheap huge bottles of liquor) or CVS or Walmart for things like bulk booze and bottled water and gatorade. Split cabs/Ubers/Lyfts. Split rooms *with people you trust and know.* If you’re driving, make food and store it in a cooler instead of eating out. Refill water bottles instead of buying new ones.
 
 If you are considering having things delivered to you (Prime, Shipt, Doordash) know that the hotel will tax the hell out of it. 
 
