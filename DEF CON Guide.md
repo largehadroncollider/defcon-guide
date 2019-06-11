@@ -1,13 +1,12 @@
-** Please note ** this TOC was statically generated and some of the links are known not to work currently.
-
+** Please note ** This TOC is statically maintained. Please try to keep it up-to-date if you adjust headings.
 
 - [DEF CON Guide](#def-con-guide)
 - [DEF CON](#def-con)
-- [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)](#belonging--sometimes-you-feel-like-a-nut-sometimes-you-don-t-)
+- [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)](#belonging-sometimes-you-feel-like-a-nut-sometimes-you-dont)
 - [Getting Involved and Making New Hacker Friends](#getting-involved-and-making-new-hacker-friends)
-  * [Be Inclusive (“Pac Man” Theory)](#be-inclusive---pac-man--theory-)
-- [“Doing The Con”](#-doing-the-con-)
-  * [Tracks / Talks](#tracks---talks)
+  * [Be Inclusive (“Pac Man” Theory)](#be-inclusive-pac-man-theory)
+- [“Doing The Con”](#doing-the-con)
+  * [Tracks / Talks](#tracks--talks)
   * [Badges](#badges)
   * [Contests](#contests)
   * [Villages](#villages)
@@ -17,7 +16,7 @@
   * [DC101](#dc101)
   * [LineCon](#linecon)
   * [CFP](#cfp)
-  * [Swag / Vendor Area](#swag---vendor-area)
+  * [Swag / Vendor Area](#swag--vendor-area)
   * [DEF CON Program](#def-con-program)
 - [Staying Informed](#staying-informed)
   * [Twitter](#twitter)
@@ -25,40 +24,40 @@
   * [Reddit](#reddit)
   * [Lonely Hackers Club](#lonely-hackers-club)
   * [Hacker Tracker App](#hacker-tracker-app)
-- [Security/Privacy](#security-privacy)
-  * [Photos/Videos](#photos-videos)
-  * [Device Security / Privacy](#device-security---privacy)
+- [Security/Privacy](#securityprivacy)
+  * [Photos/Videos](#photosvideos)
+  * [Device Security / Privacy](#device-security--privacy)
     + [Burner Devices](#burner-devices)
-  * [Room Security / Privacy](#room-security---privacy)
-  * [Personal Security/Safety](#personal-security-safety)
+  * [Room Security / Privacy](#room-security--privacy)
+  * [Personal Security/Safety](#personal-securitysafety)
   * [Bring a Battle Buddy](#bring-a-battle-buddy)
-  * [Being Stupid? Don’t](#being-stupid--don-t)
+  * [Being Stupid? Don’t](#being-stupid-dont)
 - [Transportation](#transportation)
-  * [Airport Tips/Tricks](#airport-tips-tricks)
+  * [Airport Tips/Tricks](#airport-tipstricks)
   * [International Hackers](#international-hackers)
   * [Hotels](#hotels)
     + [Hotel Room Hax](#hotel-room-hax)
   * [Navigating the Con](#navigating-the-con)
-  * [Work Trip?](#work-trip-)
+  * [Work Trip?](#work-trip)
 - [Con Life](#con-life)
   * [321 Rule](#321-rule)
   * [Handles](#handles)
-  * [Goons (Those Cool People in Red, Often Confused with Deadpool)](#goons--those-cool-people-in-red--often-confused-with-deadpool-)
-  * [Badge Life / Indie Badges](#badge-life---indie-badges)
-  * [Pack Light, Have Comfortable Shoes](#pack-light--have-comfortable-shoes)
+  * [Goons (Those Cool People in Red, Often Confused with Deadpool)](#goons-those-cool-people-in-red-often-confused-with-deadpool)
+  * [Badge Life / Indie Badges](#badge-life--indie-badges)
+  * [Pack Light, Have Comfortable Shoes](#pack-light-have-comfortable-shoes)
   * [Daily Loadout](#daily-loadout)
-  * [Medical Supplies/Medicine](#medical-supplies-medicine)
-  * [$$$$ aka MONEY](#-----aka-money)
+  * [Medical Supplies/Medicine](#medical-suppliesmedicine)
+  * [$$$$ aka MONEY](#-aka-money)
   * [Con Flu](#con-flu)
   * [Bathrooms](#bathrooms)
   * [Shenanigans](#shenanigans)
-  * [Collectible/Swag](#collectible-swag)
+  * [Collectible/Swag](#collectibleswag)
     + [Challenge Coins](#challenge-coins)
-- [DEF CON Outside of Las Vegas?](#def-con-outside-of-las-vegas-)
+- [DEF CON Outside of Las Vegas?](#def-con-outside-of-las-vegas)
   * [DC China](#dc-china)
   * [DC Groups](#dc-groups)
-- [Surviving Las Vegas / What to Bring](#surviving-las-vegas---what-to-bring)
-  * [PACE YOURSELF!](#pace-yourself-)
+- [Surviving Las Vegas / What to Bring](#surviving-las-vegas--what-to-bring)
+  * [PACE YOURSELF!](#pace-yourself)
   * [Hygiene](#hygiene)
   * [Foot Care](#foot-care)
   * [Hydration](#hydration)
@@ -71,7 +70,6 @@
   * [Saving Money](#saving-money)
 - [Links](#links)
 - [Document Hackers](#document-hackers)
-
 
 
 # DEF CON Guide
@@ -258,6 +256,10 @@ Keeping things locked up is important. It’s a good idea to keep your stuff in 
 
 Chances are good that your room will be searched if you do not allow maid service at least every couple of days. This sucks, but what can you do.
 
+While you are in your room, if you want additional security to those already offered in room by the hotel (which hotel security will be able to bypass with ease) then you can always use a couple of door wedges to ensure entry is not easily obtained. or additional items placed by the door to give you an early warning system.
+
+With the rise of Inernet of things (IoT) and digital assistants being deployed by hotel chains worldwide (such as Echo dot), It's possible you might find these in your room. You may want to consider your risk appetite for having anything you say around these devices shared to the Cloud (aka someone else's computer). It might be advisable to disconnect the devices from power for the duration of your stay, but it's your choice.
+
 ## Personal Security/Safety
 
 
@@ -288,6 +290,10 @@ It’s also not recommended to attempt or to be “back of house” at the casin
 # Transportation
 
 There are two ways to get to Las Vegas: by car or by plane. The flights to Las Vegas are usually cheap enough that you don’t need to drive. (SouthWest has cheap direct flights.) Drive if you want to make travel in an *experience*. Just remember that you have to drive **back** too (and you will be exhausted and possibly sick). Book flights early. Depending on whether you’re going to BlackHat/BSidesLV, you’ll be arriving extra early. If you’re just doing DEF CON, you should still try to fly in on Wednesday because people like to get an early start to the festivities. Don’t leave on Sunday unless you have to. The best conversations happen late Sunday night, and the airport is much less chaotic on Monday.
+
+Depending on where you are staying the LV monorail might be another option to help you get around. It runs between MGM Grand and SLS.
+It operates between 7am and 00:00-03:00 depending on the day. More details can be found here: https://www.lvmonorail.com/ and keep an eye on groupon for discounts on standard multi-day fares.
+
 
 ## Airport Tips/Tricks
 
@@ -323,6 +329,8 @@ Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at 
 It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/lyft/uber at the end of the day back to your room. Beware though, you might have to wait 5ever for an elevator to go up/down to your room, especially if you booked near popular shit.
 
 DEF CON requires a LOT of walking. The hotels are enormous; even just walking through two casinos to get to your hotel will take you 15 minutes. Your walks outside in the LV weather will feel like a slow descent into hell. Vegas in August feels like you are dying inside an oven with zerofuckingpercenthumidity. You will get exhausted and want a quick nap or want to drop some stuff off and start wishing your room was closer. You’ll also want to be able to stumble into your room immediately after overdrinking. That being said, if you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with someone. Both the Defcon forums and the Defcon subreddit have threads for room sharing during the months leading up to the event.
+
+It's also worth noting that most LV hotels haved a daily resort tax that is charged for the duration of your stay, I believe this can be up to $45 per night. 
 
 ### Hotel Room Hax
 
