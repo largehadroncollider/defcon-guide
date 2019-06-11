@@ -263,6 +263,21 @@ Bring money (cash). More money (cash) than you think. OK, now bring just a littl
 
 ATM fees are on the higher side and can add up pretty quickly. You may want to use ATMs away from the con for safety sake (fake ATMs were once a thing but realistically you’re more likely to have someone shoulder surf your account info than haxor the ATM -- casino security is a real thing and they will F you up, so don’t try anything stupid; jail isn’t cool).
 
+### High Level Planning Guide for How Much $$$$ to Bring
+Use the section below to get a better approximation of how much cash you should bring.  Note: These are based on our collective past experiences and are to be used as a GUIDELINE ONLY, so plan accordinglly.  Don't come whining to us if prices on some things are higher than listed below or if you order some fancy bottle of booze that ends up costing you $10,000.
+* DEF CON badge - $300
+* Swag
+** Tshirt - $20
+** DEF CON bag - $60
+** DEF CON hat - $15-$35
+** Custom Badges - $5-$120
+* Food
+** Meal at the Casino - $25-$infinity
+** Mixed drink at the Casino - $10-$12
+** Beer at the Casino - $6-$8
+** Bottle of water at the Casino - $3-$10
+
+
 ## Pack Light, Have Comfortable Shoes
 
 You don’t need all your shit. If you want to bring a laptop and a soldering iron, cool, but leave it in your room. Trust me, you’re not going to use your laptop, and carrying it all day is going to wreck your back.
