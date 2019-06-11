@@ -153,8 +153,8 @@ It's also worth noting that most Las Vegas hotels have a daily "resort tax" that
 For all the DefCon folks staying in Caesar's Properties: the VIP override for the Honeywell thermostat in your room (which disables room occupancy sensor and lowers min temp setting) is:
 
 - While holding down "display:"
-- * Press "off"
-- * Press "Up" arrow
+  * Press "off"
+  * Press "Up" arrow
 - Release "display" button
 
 ## Work Trip?
@@ -265,17 +265,17 @@ ATM fees are on the higher side and can add up pretty quickly. You may want to u
 
 ### High Level Planning Guide for How Much $$$$ to Bring
 Use the section below to get a better approximation of how much cash you should bring.  Note: These are based on our collective past experiences and are to be used as a GUIDELINE ONLY, so plan accordinglly.  Don't come whining to us if prices on some things are higher than listed below or if you order some fancy bottle of booze that ends up costing you $10,000.
-* DEF CON badge - $300
-* Swag
-** Tshirt - $20
-** DEF CON bag - $60
-** DEF CON hat - $15-$35
-** Custom Badges - $5-$120
-* Food
-** Meal at the Casino - $25-$infinity
-** Mixed drink at the Casino - $10-$12
-** Beer at the Casino - $6-$8
-** Bottle of water at the Casino - $3-$10
+- DEF CON badge - $300
+- Swag
+  * Tshirt - $20
+  * DEF CON bag - $60
+  * DEF CON hat - $15-$35
+  * Custom Badges - $5-$120
+- Food
+  * Meal at the Casino - $25-$infinity
+  * Mixed drink at the Casino - $10-$12
+  * Beer at the Casino - $6-$8
+  * Bottle of water at the Casino - $3-$10
 
 
 ## Pack Light, Have Comfortable Shoes
@@ -533,3 +533,4 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of Def
 * n0v / [@n0vsec](https://twitter.com/n0vsec)
 * 2bitwannabe / [@2bitwannabe](https://twitter.com/2bitwannabe)
 * Chris / [@TechGirlMN](https://twitter.com/TechGirlMN)
+* princess / [@Princess_htw](https://twitter.com/princess_htw)
