@@ -536,3 +536,4 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of Def
 * 2bitwannabe / [@2bitwannabe](https://twitter.com/2bitwannabe)
 * Chris / [@TechGirlMN](https://twitter.com/TechGirlMN)
 * princess / [@Princess_htw](https://twitter.com/princess_htw)
+* IlliterateBeef / [@illiteratebeef](https://twitter.com/illiteratebeef)
