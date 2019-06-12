@@ -304,6 +304,8 @@ Good-to-haves:
 
 * Pain relievers (not Tylenol if you’re drinking)
 * PediaLyte is your friend, or electrolyte (salt) tablets or drinks for dehydration/hangovers
+* Sunscreen! If you're outside for >2 min you will get burnt!
+* Aloe Vera since you won't listen about putting on sunscreen
 * Zinc and vitamin C
 * Motion sickness (anti-nausea) medicine
 * Melatonin/5-HTP/Benedryl
