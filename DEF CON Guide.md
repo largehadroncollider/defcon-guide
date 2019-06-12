@@ -304,6 +304,8 @@ Good-to-haves:
 
 * Pain relievers (not Tylenol if you’re drinking)
 * PediaLyte is your friend, or electrolyte (salt) tablets or drinks for dehydration/hangovers
+* Sunscreen! If you're outside for >2 min you will get burnt!
+* Aloe Vera since you won't listen about putting on sunscreen
 * Zinc and vitamin C
 * Motion sickness (anti-nausea) medicine
 * Melatonin/5-HTP/Benedryl
@@ -534,3 +536,4 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of Def
 * 2bitwannabe / [@2bitwannabe](https://twitter.com/2bitwannabe)
 * Chris / [@TechGirlMN](https://twitter.com/TechGirlMN)
 * princess / [@Princess_htw](https://twitter.com/princess_htw)
+* IlliterateBeef / [@illiteratebeef](https://twitter.com/illiteratebeef)
