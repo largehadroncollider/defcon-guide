@@ -86,7 +86,7 @@ Also spelled DEFCON, Defcon, Def Con, defcon, etc. You’ve heard the rumors and
 
 # Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)
 
-If you feel like a hacker, or you care about the culture, then you belong. 
+If you feel like a hacker, or you care about the culture, then you belong.
 
 [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing and it is normal to feel like other people know more/are smarter than you or that you are going to be "found out." If you feel this way, don’t worry; many others do too! Remember, if you are hanging with a group of people and you feel like a fraud because they are all super smart, keep in mind that *they chose to have you as a friend.* In other words: **you** belong at DEF CON!
 
@@ -100,7 +100,7 @@ However, people can be jerks (and [muggles](https://www.urbandictionary.com/defi
 
 **Get involved!** Some of the best connections and opportunities occur spontaneously everywhere and anywhere through the interactions with the people around you. Whatever you do, don’t hide quietly behind your laptop. (But if you do, we get it. Just realize that people want to approach you and ask what you’re up to. So if you’re behind a screen, you won’t really meet folks.) Walk around, find something that looks interesting, and start talking to the other people who are there doing it. Or, start doing something interesting in a public area and invite others to join you! Most people you meet at DEF CON will be happy to share what they love with someone else who is interested. Just be open and honest about what you know and don’t be afraid to jump right in if something looks like your thing.
 
-Making friends at Hacker Summer Camp can be hard if you don’t know anyone and/or are super shy, but leaving the con with a pile of hacker buddies will make your DEF CON experience that much richer. If you’re introverted, this can be difficult, but pushing yourself to leave your shell is worth it! Remember that all humans basically want the same things (and want to be accepted). Find some friendly looking people, walk up to them, introduce yourself, and join the conversation! They'll probably welcome you as a new friend and might even have been too anxious themselves to do what you just did. To make it more natural, bring some stickers, candy, or something small that you can keep a lot of easily, to share with people.
+Making friends at Hacker Summer Camp can be hard if you don’t know anyone and/or are super shy, but leaving the con with a pile of hacker buddies will make your DEF CON experience that much richer. If you’re introverted, this can be difficult, but pushing yourself to leave your shell is worth it! Remember that all humans basically want the same things (and want to be accepted). Find some friendly looking people, walk up to them, introduce yourself, and join the conversation! They'll probably welcome you as a new friend and might even have been too anxious themselves to do what you just did. To make it more natural, bring some stickers, candy, or something small that you can keep a lot of easily, to share with people. Having sealed alcohol to hand out is an easy way to make friends when waiting in some of the long lines!
 
 Sharing is a quick way to make friends, and helping people is another great way to meet people. See a goon carrying too much shit? Offer to help. See village staff overwhelmed and working through lunch?  Bring ‘em a snack and ask how you can help. See a group of people working on something? Ask what they're up to and if they would like any help.
 
@@ -179,7 +179,7 @@ Most attendees (and probably you) receive Human badges. Other attendees will hav
 
 ## LineCon
 
-If you want a badge, get in line earlier than later or you might get a piece of paper instead. (Really.) The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out fast. 
+If you want a badge, get in line earlier than later or you might get a piece of paper instead. (Really.) The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out fast.
 
 ## DEF CON Program
 
@@ -236,6 +236,9 @@ You can watch [@dcskytalks](https://twitter.com/dcskytalks) for updates.
 ## Parties
 
 DEF CON is all about the parties and there’s always going to be a ton. You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter and to check the [DEF CON parties calendar](http://19.defconparties.com/dcp). Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
+
+### Getting your drinks
+Most people in Vegas are drunk, most likely many of your fellow hackers as well! This is Vegas and Defcon you never need to directly pay for a drink, if you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. If you act as if you are actively gabling, or actually gamble, provide a tip and you can ensure a constant stream of drinks; or just grab your one and go. The trick here is too look like you have been sitting their for awhile, it's a good way to kill a little time and rest your feet!
 
 # Con Life
 
@@ -300,7 +303,7 @@ If you **do** want to wear cute shoes, save them for the parties.
 
 Once again, leave your laptop in your room unless you know you'll want/need it for a specific thing.
 
-* Carry a battery pack, a water bottle, and your phone, which will probably end up being the main way you find out about stuff going on at DEF CON "right now."
+* Carry a battery pack and charger, a water bottle, and your phone, which will probably end up being the main way you find out about stuff going on at DEF CON "right now."
 * Carry cash -- more than you think you need for all the cool shit you didn’t know you needed.
 * Carry an ID for drinking, etc.
 
@@ -345,7 +348,7 @@ Because of all the socializing and partying you will be doing without much sleep
 
 ## Bathrooms
 
-People using the men’s room will experience uncharacteristic lines. People using the women’s room will notice unusual emptiness. Don’t be an asshole, but no one can tell you how you identify though. Don’t ignore your body’s nature time. Take a shit or piss when needed. If you haven't needed to do either for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please don't be a scumbag who pisses or shits all over the floor. Particularly in a handicap-accessible area; DEF CON strives to be accessible to everyone. 
+People using the men’s room will experience uncharacteristic lines. People using the women’s room will notice unusual emptiness. Don’t be an asshole, but no one can tell you how you identify though. Don’t ignore your body’s nature time. Take a shit or piss when needed. If you haven't needed to do either for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please don't be a scumbag who pisses or shits all over the floor. Particularly in a handicap-accessible area; DEF CON strives to be accessible to everyone.
 
 ## Shenanigans
 
@@ -379,7 +382,7 @@ A lot of villages, etc., use Slack channels. It’s a good idea to be comfortabl
 
 ## Telegram
 
-Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2019.dcfurs.com)) use Telegram for realtime communication. 
+Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2019.dcfurs.com)) use Telegram for realtime communication.
 
 ## Reddit
 
@@ -430,7 +433,7 @@ If you still feel the need, and you want a semi-free way to procure a nice burne
 
 Hotel staff have been known to search rooms without consent or your knowledge. For this reason, some people like to install cameras in *THEIR OWN* rooms to ensure their own security 24/7.
 
-Keeping things locked up is important. It’s a good idea to keep your stuff in a Pelican case locked with a good lock that you own. If you don’t own such a case, use the room safe! Put the laptop that you won’t need in there if you don’t have a better location. It’ll keep muggles out and more sophisticated attackers can get in, but if you have those people after you, you have bigger problems. 
+Keeping things locked up is important. It’s a good idea to keep your stuff in a Pelican case locked with a good lock that you own. If you don’t own such a case, use the room safe! Put the laptop that you won’t need in there if you don’t have a better location. It’ll keep muggles out and more sophisticated attackers can get in, but if you have those people after you, you have bigger problems.
 
 If you want additional security while you are in your room, then you can always use a couple of door wedges to ensure entry is not easily obtained. Or, you can place additional items near the door to give you an early warning system.
 
@@ -468,7 +471,7 @@ Vegas is slightly warm, a little pricey, and just a little stimulating....
 
 People are cool and understanding. Don’t be afraid to let them know you need to pace yourself. This applies to everything from drinking (alcohol), smoking (marijuana), walking down the street in a climate only Satan himself could be fond of, etc.
 
-Always use your best judgement and caution. 
+Always use your best judgement and caution.
 
 ## Hygiene
 
@@ -476,7 +479,7 @@ People get sweaty in the desert, and that can lead to some serious body odor. Be
 
 You’ll want at least 1 form of sweat defense per day, 'cause it’s approximately at least a million degrees even at midnight. If you are a sweaty person, the kinda expensive [Thompson Tees](https://thompsontee.com/) actually somehow fucking work 100%</shill>. If you have hyperhidrosis (excessive sweating), get [prescription strength antiperspirant](https://www.amazon.com/gp/product/B01JB1MUNI) or [SweatBlock](https://www.amazon.com/SweatBlock-Antiperspirant-Clinical-Strength-Reduce/dp/B002PQ8BQM). They work amazingly well (and will irritate your underarms with prolonged use, but they’re perfect for when you only need it for 3 days). Or buy the magic undershirts, your call.
 
-Speaking of expensive but useful clothing: merino wool is generally very breathable, which is useful (to some extent) in this climate. Example t-shirts are [Duckworth's Vapor Tee](https://www.duckworthco.com/collections/men-shirts/products/mens-vapor-tee) and [Wool&Prince's Crew Tee](https://woolandprince.com/collections/tees/products/black-crew-neck). (Of these two, the Duckworth is lighter, but the Wool&Prince is more durable.) Note that this is the opposite approach of the above Thompson recommendation (their shirts attempt to trap the sweat/smell; merino attempts to prevent it). 
+Speaking of expensive but useful clothing: merino wool is generally very breathable, which is useful (to some extent) in this climate. Example t-shirts are [Duckworth's Vapor Tee](https://www.duckworthco.com/collections/men-shirts/products/mens-vapor-tee) and [Wool&Prince's Crew Tee](https://woolandprince.com/collections/tees/products/black-crew-neck). (Of these two, the Duckworth is lighter, but the Wool&Prince is more durable.) Note that this is the opposite approach of the above Thompson recommendation (their shirts attempt to trap the sweat/smell; merino attempts to prevent it).
 
 ## Foot Care
 
@@ -532,7 +535,7 @@ Traffic in Vegas is crazy, so don’t die crossing the street while playing Frog
 
 Take advantage of Players Rewards Cards ("Total Rewards"). These are free cards you get that allows the casino to know how much you spend virtually anywhere on their properties. In return, you can get discounts or free food. Basically, if you gamble, this will add up fast. If you don't spend a lot of money in casinos, skip it.
 
-If you are considering having things delivered to you (Prime, Shipt, Doordash), know that the hotel will tax the hell out of it. 
+If you are considering having things delivered to you (Prime, Shipt, Doordash), know that the hotel will tax the hell out of it.
 
 # DEF CON Outside of Las Vegas?
 
