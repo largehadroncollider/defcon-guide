@@ -53,6 +53,7 @@
   * [Device Security/Privacy](#device-securityprivacy)
     + [WiFi](#wifi)
     + [Burner Devices](#burner-devices)
+    + [Theft](#theft)
   * [Room Security/Privacy](#room-securityprivacy)
   * [Personal Security/Safety](#personal-securitysafety)
   * [Bring a Battle Buddy](#bring-a-battle-buddy)
@@ -65,6 +66,7 @@
   * [What to Wear](#what-to-wear)
     + [Ladies and Feminine-Dressing Folks](#ladies-and-feminine-dressing-folks)
   * [Food](#food)
+  * [Misc Stuff to Bring](#misc-stuff-to-bring)
   * [Transportation](#transportation-1)
     + [FroggerCon](#froggercon)
   * [Saving Money](#saving-money)
@@ -130,12 +132,12 @@ No matter what, give yourself plenty of time to get through bag check.
 
 Many hackers from around the globe make the long journey to go enjoy the time to learn and party with the community. However, if it’s your first time to the US, you might need to bring or obtain a few useful items.
 
-* Travel adapter or two that is suitable for US plug sockets
-* Cash (anyone noticing a theme here)
-* US SIM Card or a decent roaming plan
-* Additionally, a credit or bank card for Hotel deposits would be helpful
+* Travel adapter or two that is suitable for US plug sockets. [More info.](https://www.power-plugs-sockets.com/us/united-states-of-america/)
+* Cash (USD) (anyone noticing a theme here?).
+* US SIM card, or a decent roaming plan.
+* Additionally, a credit or bank card for hotel payments would be helpful (and likely necessary).
 
-It’s customary to tip in the US and in Vegas that includes a fair few people you might interact with daily, so always keep some dollars handy. The rule is typically 10-20% for normal service and more for great service. It is also customary to give a dollar or two to people who help you with luggage, show you to your hotel room, clean your room, etc.
+It’s customary to tip in the US and in Vegas that includes a fair few people you might interact with daily, so always keep some dollars handy. The rule is typically 10-20% for normal service and more for great service. It is also customary to give a dollar or two to people who help you with luggage, show you to your hotel room, clean your room, etc. [More on tipping.](https://www.usatoday.com/story/money/2015/06/14/much-tip-depends/71137254/) 
 
 Notify your bank or credit card issuer of your trip - before you leave home - so that they don't block your credit card from being used. Some banks provide this ability on their website; some require a phone call; others simply don't care.
 
@@ -170,7 +172,7 @@ So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in
 
 ## Badges
 
-Unlike many other conferences, DEF CON has no pre-registration or registration. Entry is **CASH ONLY** and grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically provided at the event or later.
+Unlike many other conferences, DEF CON has no pre-registration or registration. Entry is **CASH ONLY** and grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
 
 Most attendees (and probably you) receive Human badges. Other attendees will have different looking badges that signify their distinct role or job at DEF CON. Of particular note:
 
@@ -179,7 +181,7 @@ Most attendees (and probably you) receive Human badges. Other attendees will hav
 
 ## LineCon
 
-If you want a badge, get in line earlier than later or you might get a piece of paper instead. (Really.) The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out fast. 
+If you want a badge, get in line earlier rather than later, or you might get a piece of paper instead. (Really.) (The piece of paper will serve as your official DEF CON badge; this is just in event that they run out of the "normal Human" badges.)  The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out **fast**.
 
 ## DEF CON Program
 
@@ -191,13 +193,17 @@ Casinos are built to keep you walking in circles. It’s perpetual twilight indo
 
 ## Swag/Vendor Area
 
-Official swag sells out FAST. If you don’t purchase your official swag Thursday morning, there’s a good chance you won’t find much left. Bring extra cash for after LineCon and plan to buy swag immediately if you want any.
+Official swag sells out **FAST**. If you don’t purchase your official swag Thursday morning, there’s a good chance you won’t find much left. Bring extra cash for after getting your badge, and plan to buy swag immediately, if you want any.
 
 Vendor Area swag will sell out throughout the con, so again, buying earlier is better. The vendor area has a diverse set of products, ranging from lock picking kits, to t-shirts in every shade of black, to certain WiFi tropical fruits, to [censored], and many other things you’ll wish you had twice as much cash on hand for. (**Bring LOTS of cash. Seriously.**)
 
 ## Tracks/Talks
 
-Talks are organized into tracks, which people line up for. Many talks are very popular, and you may not get into what you want to see. Most talks are also recorded and posted online for free afterwards. The talks, while a great part of DEF CON, are also just one of the many things you can do, and many seasoned DEF CON attendees do not prioritize going to talks.
+Talks are organized into tracks, which people line up for. Many talks are very popular, and you may not get into what you want to see. Most talks are also recorded and posted online for free afterwards (... eventually). The talks, while a great part of DEF CON, are also just one of the many things you can do, and many seasoned DEF CON attendees do not prioritize going to talks.
+
+When entering the room where a talk/track is being held, you'll likely notice that the room is nearing capacity quickly. Please take a seat immediately beside another person, and fill the room from front (stage) to back. If it becomes obvious that the room isn't going to be completely full, this can be disregarded, but many talks will be full.
+
+Speaking of full talks: if there is a talk that you absolutely must attend, ensure that you're standing outside of the room with plenty of time before the talk is scheduled to begin; there is usually a line to get in. Completing one talk and then running to catch the next talk will just lead to frustration. 
 
 ### RoomCon
 
@@ -397,7 +403,7 @@ Many kinds of people come to DEF CON, and most are very cool, but some are not. 
 
 ## Photos/Videos
 
-Don’t take photos/videos of anyone without their permission. Don’t take photos/videos of casino stuff. Just don’t take photos/videos. But also remember if you’re in the casino area you’re being watched by at least 10 cameras, fewer in other areas.
+Don’t take photos/videos of anyone without their permission. Don’t take photos/videos of casino stuff. Just don’t take photos/videos. But also remember if you’re in the casino area you’re being watched by at least 10 cameras (probably fewer in non-casino areas).
 
 ## Device Security/Privacy
 
@@ -426,6 +432,10 @@ Leave your laptop off and in your room, and leave your phone off or in airplane 
 
 If you still feel the need, and you want a semi-free way to procure a nice burner laptop, you could try "purchasing" one from Costco (they have an amazing return policy), and returning it after the con. Of course, you might want to hang onto that sweet Kali box, and so you can also find many inexpensive used laptops on eBay. Speaking of Kali: do not run any distro off-the-shelf, even Kali, and expect it to be hardened/secured. Understand your threat model *and* how your tools protect you.
 
+### Theft
+
+* This should go unsaid, but if you're bringing a device with you that has any data on it that you care about, make sure you have backups that you leave at home. You don't need to spend your every waking moment worried about your stuff getting stolen (it's unlikely), but you do need to have a plan for how to recover if it happens. This applies to phones, laptops, IDs, whatever. Do you know who you'd call (at what number) for help if you somehow managed to lose your phone and wallet? Be prepared when you travel, whether it's for DEF CON or for any other reason. (Some of us make a paper copy of one ID/credit card, write the phone number of the person(s) we'd need to call in emergency on the paper, and hide it in a bag or luggage that will stay in your hotel room.)
+
 ## Room Security/Privacy
 
 Hotel staff have been known to search rooms without consent or your knowledge. For this reason, some people like to install cameras in *THEIR OWN* rooms to ensure their own security 24/7.
@@ -444,9 +454,11 @@ In general, practice basic personal safety and situational awareness. Be aware o
 
 DEF CON attendees are as diverse as their places of business, and for a variety of reasons, including personal comfort, security clearances, legal agreements, etc., people may be more or less comfortable about sharing where they work. In general, consider being cautious about being too open about your own place of employment. And, leave it up to others to say where they work, if they feel comfortable.
 
-Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon or a DEF CON staff member (or a police officer or casino staff/security officer). You can also call or text **725-867-7255** for help.
+Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon or a DEF CON staff member (or a police officer or casino staff/security officer). You can also call (or text?) **+1 (725) 867-7255** (DEF CON Support) for help.
 
 If you’re feeling anxious about your safety, check out the [Transparency Report](https://www.defcon.org/html/links/dc-transparency.html). DEF CON is generally a very safe, fun, and welcoming event for everyone involved, but it’s a great idea to be aware of the available resources in case you, or someone else, needs them.
+
+For lack of a better section to put this in: consider removing contactless/RFID cards from your person/wallet, unless you actively require them (such as hotel room cards). Scanning/duplicating cards is a thing.
 
 ## Bring a Battle Buddy
 
@@ -456,7 +468,7 @@ Always make sure someone else knows where & who you are going off on an adventur
 
 ## Being Stupid? Don’t
 
-Be only a reasonable, responsible amount of stupid, in a way that doesn’t harm others. Las Vegas offers you wide ranging opportunities to part with your money, but sleeping in a jail cell isn’t cool. The casinos own most of the strip sidewalks, so you can "not publicly" ;) intoxicate yourself. Also, they legalized the marijuanas. Having fun is neat, but both of these substances/together along with exhaustion and other things in Vegas can impair your ability to control yourself/remember things/resist Social Engineering/not barf in the hotel room sink/make good decisions. In other words, **YOUR CHOICES HAVE CONSEQUENCES.** Balance the amount of fun you have with your personal threat profile, and use the battle buddy system *always.* (Never drink alone!)
+Be only a reasonable, responsible amount of stupid, in a way that doesn’t harm others. Las Vegas offers you wide ranging opportunities to part with your money, but sleeping in a jail cell isn’t cool. The casinos own most of the strip sidewalks, so you can "not publicly" ;) intoxicate yourself. Also, Nevada has legalized marijuana; be aware that casinos and hotels often have policies prohibiting smoking marijuana on their premises. Your mileage may vary. Having fun is neat, but both of these substances/together along with exhaustion and other things in Vegas can impair your ability to control yourself/remember things/resist Social Engineering/not barf in the hotel room sink/make good decisions. In other words, **YOUR CHOICES HAVE CONSEQUENCES.** Balance the amount of fun you have with your personal threat profile, and use the battle buddy system *always.* (Never drink alone!)
 
 Hacking is cool, committing crimes is not. Know about US computer crime laws! Do not hack anything that you do not have permission to hack. Do not disgrace your hacker family by committing crimes and smearing the excellent DEF CON name. **Do not fuck with/attack/go "back of house"/hack the casinos!** DEF CON wants to come back next year. Your not being shitty allows for our future shenanigans.
 
@@ -507,6 +519,12 @@ If you carry a purse, consider swapping your daily carry to something lightweigh
 Vegas food is expensive, especially on strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
 
 If you want to eat at a con casino, particularly during lunch or dinner hours, be sure to eat at an off time, arrive very early, or eat in your room there (if you're staying there). Otherwise, you'll want to eat off premises -- or you'll likely be stuck in a long, long line with a lot of other hungry hackers.
+
+## Misc Stuff to Bring
+
+You might find that your hotel room has fewer 110v electrical outlets than you'd like (don't use any USB chargers that they might provide). Look at the stuff you're otherwise bringing, and determine how many outlets you'll need. If you don't have enough, bring a short extension cord or power-strip. It would be annoying to arrive in Vegas and not be able to charge all of your stuff as quickly as you want. [Example](https://www.amazon.com/dp/B000FBPP8G/)
+
+It's rare, but an ink pen does still come in useful from time to time. 
 
 ## Transportation
 
