@@ -128,12 +128,12 @@ No matter what, give yourself plenty of time to get through bag check.
 
 ## International Hackers
 
-Many hackers from around the globe make the long journey to go enjoy the time to learn and party with the community. However, if it’s your first time to the US, you might need to bring or obtain a few useful items.
+Many hackers from around the globe make the long journey so the can enjoy the time to learn, and party with the community. However, if it’s your first time to the US, you might need to bring or obtain a few useful items.
 
 * Travel adapter or two that is suitable for US plug sockets. [More info.](https://www.power-plugs-sockets.com/us/united-states-of-america/)
 * Cash (USD) (anyone noticing a theme here?).
 * US SIM card, or a decent roaming plan.
-* Additionally, a credit or bank card for hotel payments would be helpful (and likely necessary).
+* Additionally, a credit or bank card for hotel payments.
 
 It’s customary to tip in the US and in Vegas that includes a fair few people you might interact with daily, so always keep some dollars handy. The rule is typically 10-20% for normal service and more for great service. It is also customary to give a dollar or two to people who help you with luggage, show you to your hotel room, clean your room, etc. [More on tipping.](https://www.usatoday.com/story/money/2015/06/14/much-tip-depends/71137254/) 
 
