@@ -264,7 +264,7 @@ Many people at DEF CON choose to use a handle instead of their real name to iden
 
 ## Goons (Those Cool People in Red, Often Confused with Deadpool)
 
-Goons are DEF CON staff members (who work for many different departments) whose job is to keep everyone safe, answer questions, and help the entire con run smoothly. Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety and joy. Go where they say, and move when they need you to move. It’s not an easy job screaming over 35 thousand people! Give them beers and Gatorades and make new friends.
+Goons are DEF CON staff members (who work for many different departments) whose job it is to keep everyone safe, answer questions, and help the entire con run smoothly. Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety and joy. Go where they say, and move when they need you to move. It’s not an easy job screaming over 35 thousand people! Give them beers and Gatorades and make new friends.
 
 ## $$$$ aka MONEY
 
@@ -321,7 +321,7 @@ Good-to-haves:
 * Sunscreen! If you're outside for >2 min you will get burnt!
 * Aloe Vera since you won't listen about putting on sunscreen
 * Zinc and vitamin C
-* Motion sickness (anti-nausea) medicine
+* Motion sickness (anti-nausea) medicine (dramamine)
 * Melatonin/5-HTP/Benedryl
 * Tums/digestive aids
 * Caffeine pills
@@ -397,7 +397,7 @@ Cool hackers join the [Lonely Hackers Club.](https://lonelyhackers.club)
 
 # Security/Privacy
 
-Many kinds of people come to DEF CON, and most are very cool, but some are not. Furthermore, many hackers practice Social Engineering and other human hacking skills. Being paranoid is not uncalled for. It’s a great opportunity to practice not sharing or not being 100% honest and upfront with everything all the time with everyone. Any electronics that you bring should be up to date, physically controlled at all times, and connected to as little as possible. Physical security and locking things up well still goes a long way.
+Many kinds of people come to DEF CON, and most are very cool, but some are not. Furthermore, many hackers practice Social Engineering and other human hacking skills. Being paranoid is not uncalled for. It’s a great opportunity to practice not sharing or not being 100% upfront and honest with everything all the time with everyone. Any electronics that you bring should be up to date, physically controlled at all times, and connected to as little as possible. Physical security and locking things up well still goes a long way.
 
 ## Photos/Videos
 
@@ -468,7 +468,7 @@ Always make sure someone else knows where & who you are going off on an adventur
 
 Be only a reasonable, responsible amount of stupid, in a way that doesn’t harm others. Las Vegas offers you wide ranging opportunities to part with your money, but sleeping in a jail cell isn’t cool. The casinos own most of the strip sidewalks, so you can "not publicly" ;) intoxicate yourself. Also, Nevada has legalized marijuana; be aware that casinos and hotels often have policies prohibiting smoking marijuana on their premises. Your mileage may vary. Having fun is neat, but both of these substances/together along with exhaustion and other things in Vegas can impair your ability to control yourself/remember things/resist Social Engineering/not barf in the hotel room sink/make good decisions. In other words, **YOUR CHOICES HAVE CONSEQUENCES.** Balance the amount of fun you have with your personal threat profile, and use the battle buddy system *always.* (Never drink alone!)
 
-Hacking is cool, committing crimes is not. Know about US computer crime laws! Do not hack anything that you do not have permission to hack. Do not disgrace your hacker family by committing crimes and smearing the excellent DEF CON name. **Do not fuck with/attack/go "back of house"/hack the casinos!** DEF CON wants to come back next year. Your not being shitty allows for our future shenanigans.
+Hacking is cool, committing crimes is not. Know about US computer crime laws! Do not hack anything that you do not have permission to hack. Do not disgrace your hacker family by committing crimes and smearing the excellent DEF CON name. **Do not fuck with/attack/go "back of house"/hack the casinos!** DEF CON wants to come back next year. You not being shitty allows for our future shenanigans.
 
 # Surviving Las Vegas/What to Bring
 
@@ -514,7 +514,7 @@ If you carry a purse, consider swapping your daily carry to something lightweigh
 
 ## Food
 
-Vegas food is expensive, especially on strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
+Vegas food is expensive, especially on the strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
 
 If you want to eat at a con casino, particularly during lunch or dinner hours, be sure to eat at an off time, arrive very early, or eat in your room there (if you're staying there). Otherwise, you'll want to eat off premises -- or you'll likely be stuck in a long, long line with a lot of other hungry hackers.
 
