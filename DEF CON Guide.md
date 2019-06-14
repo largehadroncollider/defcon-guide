@@ -110,7 +110,7 @@ Finally, get socially involved online. Reddit, LHC, Twitter, Telegram, Slack, et
 
 ## Be Inclusive ("Pac Man" Theory)
 
-When standing as a group of people, always leave room for a new person to join your group. When someone does join your group, make sure you make a space again!
+When standing in a group of people, always leave room for a new person to join your group. When someone does join your group, make sure you make a space again!
 
 # Transportation
 
