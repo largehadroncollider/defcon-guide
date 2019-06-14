@@ -437,7 +437,7 @@ If you still feel the need, and you want a semi-free way to procure a nice burne
 
 ### Theft
 
-* This should go unsaid, but if you're bringing a device with you that has any data on it that you care about, make sure you have backups that you leave at home. You don't need to spend your every waking moment worried about your stuff getting stolen (it's unlikely), but you do need to have a plan for how to recover if it happens. This applies to phones, laptops, IDs, whatever. Do you know who you'd call (at what number) for help if you somehow managed to lose your phone and wallet? Be prepared when you travel, whether it's for DEF CON or for any other reason. (Some of us make a paper copy of one ID/credit card, write the phone number of the person(s) we'd need to call in emergency on the paper, and hide it in a bag or luggage that will stay in your hotel room.)
+This should go unsaid, but if you're bringing a device with you that has any data on it that you care about, make sure you have backups that you leave at home. You don't need to spend your every waking moment worried about your stuff getting stolen (it's unlikely), but you do need to have a plan for how to recover if it happens. This applies to phones, laptops, IDs, whatever. Do you know who you'd call (at what number) for help if you somehow managed to lose your phone and wallet? Be prepared when you travel, whether it's for DEF CON or for any other reason. (Some of us make a paper copy of one ID/credit card, write the phone number of the person(s) we'd need to call in emergency on the paper, and hide it in a bag or luggage that will stay in your hotel room.)
 
 ## Room Security/Privacy
 
