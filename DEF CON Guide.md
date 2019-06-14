@@ -124,8 +124,6 @@ Wearing DEF CON swag and hacker stuff at the airport can help you make friends, 
 
 If you plan on bringing your lockpicking set or other toys to DEF CON or buying them at the con and taking them home in your carryon bag, there’s a chance you might get questioned. Carrying loads of electronics in your bags/looking like a haxor/wearing black t-shirts on DEF CON travel days is asking TSA to probe you and your belongings. Get ready for "random searches!"
 
-Leaving on Monday is much more peaceful and gives you time to wind down from the con and have good conversations Sunday night.
-
 No matter what, give yourself plenty of time to get through bag check.
 
 ## International Hackers
