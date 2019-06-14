@@ -78,9 +78,9 @@
 
 # DEF CON Guide
 
-So you’re going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go (or even if you are), you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
+So you’re going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go (or even if you are), you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
 
-DEF CON is huge, and can be very overwhelming at first. With multiple talks at the same time, villages everywhere, workshop here and there, something called "SkyTalks," those people in red shirts who keep directing the thousands of hackers, something about finding parties on Twitter, and everything else going on, it can be a lot to take in! And this is all while the bells, whistles, and lights of the Las Vegas casino that you will grow to love... or hate... are flashing in your face. We hope this guide will help you get the most out of your experience, and perhaps meet some new hacker friends.
+DEF CON is huge, and can be very overwhelming at first. With multiple talks at the same time, villages everywhere, workshops here and there, something called "SkyTalks," those people in red shirts who keep directing the thousands of hackers, and everything else going on, it can be a lot to take in! And this is all while the bells, whistles, and lights of the Las Vegas casino that you will grow to love... or hate... are flashing in your face. We hope this guide will help you get the most out of your experience, and perhaps meet some new hacker friends.
 
 # DEF CON
 
