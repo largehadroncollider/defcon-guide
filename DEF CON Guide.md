@@ -143,13 +143,13 @@ Attend the TravelCon party (check [@defconparties](https://twitter.com/defconpar
 
 ## Hotels
 
-It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/Lyft/Uber at the end of the day back to your room. Beware though, you might have to wait fiveever for an elevator to go up/down to your room, especially if you booked near popular shit.
+It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/Lyft/Uber at the end of the day back to your room. Beware though, you might have to wait forever for an elevator to go up/down to your room, especially if you booked near popular shit.
 
 Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, ask for a DEF CON hotel key when you check in (if you want one). These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. Official DEF CON hotels usually carry DEF CON TV, which allows you to watch DEF CON talks from your room.
 
 If you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with a friend. Both the DEF CON forums and the DEF CON subreddit have threads for room sharing during the months leading up to the event.
 
-It's also worth noting that most Las Vegas hotels have a daily "resort tax" that is charged for the duration of your stay, which can be **quite costly** (possibly up to $45 per night).
+It's also worth noting that most Las Vegas hotels have a daily "resort tax" that is charged for the duration of your stay, which can be **quite costly** (up to $45 per night).
 
 ### Hotel Room Hax
 
@@ -162,11 +162,11 @@ For all the DEF CON folks staying in Caesar's Properties: the VIP override for t
 
 ## Work Trip?
 
-So you talked the powers that be at your dayJob to pay for DEF CON, awesome. Rock those SE skills ;). The money people at dayJob are probably going to want a receipt from the purchase of your badge, but as we all know, DEF CON badges are cash only, at the door. So what do we do? The lovely folks running this circus will have provided a handy dandy receipt for this exact problem, expected to be available [here](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20receipt.pdf).
+So you talked to the powers that be at your dayjob to pay for DEF CON, awesome. Rock those Social Engineering skills ;). The money people at dayJob are probably going to want a receipt from the purchase of your badge, but as we all know, DEF CON badges are cash only, at the door. So what do we do? The lovely folks running this circus will have provided a handy dandy receipt for this exact problem, expected to be available [here](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20receipt.pdf).
 
 # "Doing The Con"
 
-So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in hand, and you’re here to learn. You want to "really do the con" huh?
+So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in hand, and you’re here to learn. You want to "really do the con", huh?
 
 ## Badges
 
