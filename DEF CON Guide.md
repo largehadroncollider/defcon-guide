@@ -227,13 +227,13 @@ DEF CON has a ton of contests and events for you to get involved with! No matter
 
 ## CFP
 
-Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://www.reddit.com/r/Defcon/comments/bivqhg/def_con_27_village_cfps/).
+Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON, and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://www.reddit.com/r/Defcon/comments/bivqhg/def_con_27_village_cfps/).
 
 ## SkyTalks
 
-[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, so whatever you do, don’t try to record anything in there. _When_ you’re discovered you *will* be kicked out, likely have your recording device destroyed, and will be shamed by everyone in attendance. SkyTalks is popular, so get in line early (maybe "a talk early" early). In the past, badges have been sold that allow you to remain in the room and whose sale supports SkyTalks.
+[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, so whatever you do, don’t try to record anything in there. _When_ you’re discovered you *will* be kicked out, most likely you will have your recording device destroyed, and you will be shamed by everyone in attendance. SkyTalks is popular, so get in line early (maybe "a talk early" early). In the past, badges have been sold that allow you to remain in the room and the proceeds support SkyTalks.
 
-If you want to go to a SkyTalk, and a mainline DC talk that are scheduled at the same time, go to the SkyTalk. Mainline talks are recoreded, and SkyTalks are not.
+If you want to go to a SkyTalk, and a mainline DC talk that are scheduled at the same time, go to the SkyTalk. Mainline talks are recorded, and SkyTalks are not.
 
 You can watch [@dcskytalks](https://twitter.com/dcskytalks) for updates.
 
