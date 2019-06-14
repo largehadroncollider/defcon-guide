@@ -179,7 +179,7 @@ Most attendees (and probably you) receive Human badges. Other attendees will hav
 
 ## LineCon
 
-If you want a badge, get in line earlier rather than later, or you might get a piece of paper instead. (Really.) (The piece of paper will serve as your official DEF CON badge; this is just in event that they run out of the "normal Human" badges.)  The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out **fast**.
+If you want a badge, get in line earlier rather than later, or you might just get a piece of paper instead. (Really.) (The piece of paper will serve as your official DEF CON badge; this is just in event that they run out of the "normal Human" badges.)  The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out **fast**.
 
 ## DEF CON Program
 
@@ -205,7 +205,7 @@ Speaking of full talks: if there is a talk that you absolutely must attend, ensu
 
 ### RoomCon
 
-If you couldn't get into a talk or hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room!
+If you couldn't get into a talk, or you hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room!
 
 ## DC101
 
