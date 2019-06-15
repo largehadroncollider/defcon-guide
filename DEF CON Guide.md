@@ -209,7 +209,7 @@ If you couldn't get into a talk, or you hate crowds and don't want to line up fo
 
 ## DC101
 
-DC101 is a talk track aimed at newbies with less technical and community knowledge (not necessarily those new to DEF CON). It’s recentish and has a lot of info thats especially helpful for newcomers to the dysfunctionally beautiful DEF CON family. (Thank you Daddy HighWiz.)
+DC101 is a talk track aimed at newbies with less technical and community knowledge (not necessarily those new to DEF CON). It’s a recentish addition to the con and has a lot of info that's especially helpful for newcomers to the dysfunctionally beautiful DEF CON family. (Thank you Daddy HighWiz.)
 
 ## Villages
 
