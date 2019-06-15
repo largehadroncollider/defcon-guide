@@ -459,7 +459,7 @@ If you’re feeling anxious about your safety, check out the [Transparency Repor
 For lack of a better section to put this in: consider removing contactless/RFID cards from your person/wallet, unless you actively require them (such as hotel room cards). Scanning/duplicating cards is a thing.
 
 ## Bring a Battle Buddy
-
+<!--This section is already alluded to in the Personal Sec section, should look at integrating-->
 Battle Buddies, aka the Buddy System, are your partner, safety net, and secondary record. If one person starts something, they have a second person to count on. If something becomes a "he said, she said," there's a third/fourth person (battle buddy) to attest to events that occurred.
 
 Always make sure someone else knows where & who you are going off on an adventure with, and have a rough time and place to meet back up.
@@ -527,7 +527,7 @@ It's rare, but an ink pen does still come in useful from time to time.
 ## Transportation
 
 DEF CON requires a LOT of walking. The hotels are enormous; even just walking through two casinos to get to your hotel will take you 15 minutes. Your walks outside in the LV weather will feel like a slow descent into hell. Vegas in August feels like you are dying inside an oven with zerofuckingpercenthumidity. You will get exhausted and want a quick nap or want to drop some stuff off and start wishing your room was closer. You’ll also want to be able to stumble into your room immediately after overdrinking.
-
+<!--This line needs to get reworked... All the 'ands'.-->
 Cabs get expensive and are popular and all the times you want to use them too, and may try to drive you to strip clubs and other places. Compare prices to Lyft/Uber and see which one is cheaper. You can also make friends with people who want to go to the same place you do, and split the cost. Try to travel at off times, and think in advance of where you need to be, and when you need to be there, then give yourself at least the standard margin.
 
 Depending on where you are staying, the Las Vegas monorail might be another option to help you get around. It runs between MGM Grand and SLS.
