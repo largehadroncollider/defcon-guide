@@ -386,7 +386,7 @@ A lot of villages, etc., use Slack channels. It’s a good idea to be comfortabl
 
 ## Telegram
 
-Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2019.dcfurs.com)) use Telegram for realtime communication.
+Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and DCFurs[website](https://2019.dcfurs.com)) use [Telegram](https://telegram.org/) for realtime communication. You can also find the [Lonely Hackers Club](https://t.co/At7cypEIO8) on Telegram.
 
 ## Reddit
 
@@ -396,7 +396,7 @@ Some villages, and some unofficial but nearby groups (such as [Queercon](https:/
 
 ## Lonely Hackers Club
 
-Cool hackers join the [Lonely Hackers Club.](https://lonelyhackers.club)
+Cool hackers join the [Lonely Hackers Club](https://lonelyhackers.club). You can find us on [Telegram](https://t.co/At7cypEIO8) and [Twitter](https://twitter.com/L0nelyH4ckers/).
 
 # Security/Privacy
 
